@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose')
 
-const mongoDbUri = "mongodb+srv://mongo:Tg232323@cluster0.eslfdlp.mongodb.net/?retryWrites=true&w=majority"
+
 
 const app = express();
 
